@@ -1,0 +1,110 @@
+body {
+    margin: 0;
+    background: #1B244A;
+ 
+}
+
+.column{
+    text-align: center ;
+}
+
+#home-h {
+    font-family: 'Verdana';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 36px;
+    color: #EEEEEE;
+}
+
+#guest-h {
+    
+    font-family: 'Verdana';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 36px;
+    color: #EEEEEE;
+    
+}
+
+.allbutton {
+    
+    text-align: center ;
+    margin-top: 26px ;
+   
+}
+
+.score {
+    width: 155px;
+    height: 120px;
+    left: 82px;
+    top: 125px;
+    color: red ;
+
+    background: #080001;
+    border-radius: 5px;
+    
+    font-size: 90px ;
+    padding-top: 22px ;
+    padding-bottom: 0.5px ;
+    padding-right: 20px ;
+    padding-left: 20px ;
+    
+    
+    margin-top: 21px ;
+    margin-bottom: 26px ;
+}
+
+
+
+.eachb {
+    
+     box-sizing: border-box;
+    width: 45px;
+    height: 45px;
+    left: 82px;
+    top: 271px;
+
+    border: 2px solid #9AABD8;
+    border-radius: 5px;
+    
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    color: #9AABD8;
+    background: #1B244A;
+    
+    margin-left: 0px ;
+    
+}
+
+#b1{
+    margin-right: 15px ;
+}
+
+#b3 {
+    margin-left: 15px ;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.newgame {
+    display: block ;
+    padding: 12px ;
+    margin-top: 50px ;
+    margin-left: auto  ;
+    margin-right: auto;
+    background: violet ;
+    border-radius: 5px ;
+    color: darkblue ;
+    font-weight: 150px ;
+}
+
+#leader {
+    color: whitesmoke ;
+    font-weight: bold ;
+}
